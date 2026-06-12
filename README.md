@@ -7,4 +7,5 @@ This repository demonstrates the Git branching workflow.
 -	staging:  Development
 -	feature/*: Individual features
 Testing staging branch
+staging branch update
 
